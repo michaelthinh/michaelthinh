@@ -4,7 +4,7 @@
 <h1 align="center"> Michael Thinh</h1>
 <h3 align="center">A mysterious Front-end Developer</h3>
 
-- 🌱 I’m currently learning **ReactJS (Advanced) and PhP**
+- 🌱 I’m currently learning **ReactJS (Advanced), NextJS, MERN Stack, ...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/michaelthinh](https://github.com/michaelthinh)
 
